@@ -1,0 +1,11 @@
+{
+  "name": "discord-relay",
+  "type": "module",
+  "main": "bot.mjs",
+  "scripts": {
+    "start": "node bot.mjs"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
